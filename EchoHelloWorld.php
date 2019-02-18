@@ -1,6 +1,6 @@
 <?php
 
-namespace Megid\helloWorld;
+namespace MegidMegid\helloWorld;
 
 class EchoHelloWorld
 {
