@@ -8,5 +8,10 @@
             "email": "yandapeng@100tal.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Megid\\helloworld\\": "./"
+        }
+    }
     "require": {}
 }
