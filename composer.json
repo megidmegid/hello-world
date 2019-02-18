@@ -1,0 +1,12 @@
+{
+    "name": "megid/hello-world",
+    "description": "This is a test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yandapeng",
+            "email": "yandapeng@100tal.com"
+        }
+    ],
+    "require": {}
+}
